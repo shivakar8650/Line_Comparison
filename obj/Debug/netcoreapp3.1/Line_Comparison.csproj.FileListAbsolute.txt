@@ -1,0 +1,14 @@
+C:\Users\shiva\source\repos\Line_Comparison\bin\Debug\netcoreapp3.1\Line_Comparison.exe
+C:\Users\shiva\source\repos\Line_Comparison\bin\Debug\netcoreapp3.1\Line_Comparison.deps.json
+C:\Users\shiva\source\repos\Line_Comparison\bin\Debug\netcoreapp3.1\Line_Comparison.runtimeconfig.json
+C:\Users\shiva\source\repos\Line_Comparison\bin\Debug\netcoreapp3.1\Line_Comparison.runtimeconfig.dev.json
+C:\Users\shiva\source\repos\Line_Comparison\bin\Debug\netcoreapp3.1\Line_Comparison.dll
+C:\Users\shiva\source\repos\Line_Comparison\bin\Debug\netcoreapp3.1\Line_Comparison.pdb
+C:\Users\shiva\source\repos\Line_Comparison\obj\Debug\netcoreapp3.1\Line_Comparison.csproj.AssemblyReference.cache
+C:\Users\shiva\source\repos\Line_Comparison\obj\Debug\netcoreapp3.1\Line_Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\source\repos\Line_Comparison\obj\Debug\netcoreapp3.1\Line_Comparison.AssemblyInfoInputs.cache
+C:\Users\shiva\source\repos\Line_Comparison\obj\Debug\netcoreapp3.1\Line_Comparison.AssemblyInfo.cs
+C:\Users\shiva\source\repos\Line_Comparison\obj\Debug\netcoreapp3.1\Line_Comparison.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\Line_Comparison\obj\Debug\netcoreapp3.1\Line_Comparison.dll
+C:\Users\shiva\source\repos\Line_Comparison\obj\Debug\netcoreapp3.1\Line_Comparison.pdb
+C:\Users\shiva\source\repos\Line_Comparison\obj\Debug\netcoreapp3.1\Line_Comparison.genruntimeconfig.cache
